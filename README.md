@@ -5,6 +5,9 @@
 
 <!--Social medias-->
 <div id="badges" align="center">
+  <a href="https://discord.gg/yrfVYCZe3T">
+  <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+</a>
   <a href="https://www.youtube.com/channel/UCDxE5wdwjnXhiPN5iC3XB-A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -40,10 +43,6 @@ I am a independent coder from the UK <img src="https://media.giphy.com/media/WUl
 - :zap: In my free time, I work on side projects such as; basic sites, Python projects and many other things.
 
 - :mailbox:How to reach me: You can reach me through my discord server or my email linked below:
-
-<a href="https://discord.gg/yrfVYCZe3T">
-  <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
-</a>
 
 <a href="https://ton83644@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Gmail Badge">
