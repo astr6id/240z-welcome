@@ -45,4 +45,6 @@ I am a independent coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </a>
 
-- :mailbox:ton83644@outlook.com
+<a href="ton83644@outlook.com">
+  <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
+</a>
