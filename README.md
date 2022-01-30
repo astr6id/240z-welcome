@@ -1,6 +1,6 @@
 <!--Coding from home gif-->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/7wVseucXaPS9wXuSqX/giphy.gif"/>
 </div>
 
 <!--Social medias-->
@@ -38,9 +38,7 @@ I am a independent coder from the UK <img src="https://media.giphy.com/media/WUl
 - :mailbox:How to reach me: You can reach me through my discord server (At the top with my socials):
 
 ---
-
-<h1>MyChat<h1>
-<p>MyChat is an open web chat room that is open to everyone around the world. Just enter a name and away you go to thousands around the world.</p>
-  
-![MyChat](https://user-images.githubusercontent.com/70635658/151708359-79fa3b2b-7ee8-4fc2-a528-7394d5db5a5b.png)
-<a href="https://mychat.serbot.repl.co/index.php">Try Now</a>
+<div id="myChat" align="center">
+  <img src="https://media.giphy.com/media/GJhwrOoaQB41VlAasC/giphy.gif" width="400"/>
+  <p>MyChat currently is an open web chat for everyone around the world.</p>
+</div>
