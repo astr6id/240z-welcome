@@ -11,5 +11,5 @@
   <a href="https://twitter.com/PioneerPython">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=astr6id&style=flat-square&color=green" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=astr6id&style=flat-square&color=blue" alt=""/>
