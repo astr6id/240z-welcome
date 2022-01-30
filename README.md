@@ -1,6 +1,6 @@
 <!--Coding from home gif-->
 <div id="header" align="center">
-  <img src="https://imgur.com/IhRQXJL" width="100"/>
+  <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100"/>
 </div>
 
 <!--Social medias-->
