@@ -29,8 +29,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :woman_technologist: About Me : My name is Tom but goes as Astr6id across a lot of platforms or you may come across "PythonPioneer" these are what i go by online. I am a decent coder, I know a various ammount of languages like: HTHML, CSS, JavaScript, Python, Ruby On Rails, PHP, C++, C#
+
 <!--About me section-->
 <div id="About-me" align="center">
   <h1>About me</h1>
-  <h3>My name is Tom but goes as Astr6id across a lot of platforms or you may come across "PythonPioneer" these are what i go by online. I am a decent coder, I know a various     ammount of languages like: HTHML, CSS, JavaScript, Python, Ruby On Rails, PHP, C++, C#</h3>
+  <h3>M</h3>
 </div>
