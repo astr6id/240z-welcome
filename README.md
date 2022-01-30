@@ -26,13 +26,6 @@
   <h1 align="center">Hey there 👋</h1>
 </div>
 
-<!--Kewl little gif-->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
 ### :woman_technologist: About Me :
 I am a independent coder from the UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -46,4 +39,14 @@ I am a independent coder from the UK <img src="https://media.giphy.com/media/WUl
 
 <a href="https://ton83644@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Gmail Badge">
+</a>
+
+---
+
+<h1>MyChat<h1>
+<p>MyChat is an open web chat room that is open to everyone around the world. Just enter a name and away you go to thousands around the world.</p>
+
+  
+<a href="https://mychat.serbot.repl.co/index.php">
+
 </a>
