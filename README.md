@@ -41,6 +41,8 @@ I am a independent coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox:How to reach me: You can reach me through my discord server or my email linked below:
 
-<a href="https://discord.gg/yrfVYCZe3T"
+<a href="https://discord.gg/yrfVYCZe3T">
   <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </a>
+
+- :mailbox:ton83644@outlook.com
