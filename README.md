@@ -30,4 +30,5 @@
 
 ---
 
-### :woman_technologist: About Me : My name is Tom but I go by Astr6id across a lot of platforms or you may also come across "PythonPioneer" these are what I go by online. I am a decent coder, I know a various ammount of languages like: HTHML, CSS, JavaScript, Python, Ruby On Rails, PHP, C++, C#. I am currently looking into how to use databases and how to create logins / well coded web chats.
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
