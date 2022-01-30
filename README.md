@@ -23,7 +23,6 @@
 
 <!--Welcome message-->
 <div id="Welcome-message" align="center">
-  <h1 align="center">Hey there 👋</h1>
 </div>
 
 ### :woman_technologist: About Me :
@@ -39,6 +38,7 @@ I am a independent coder from the UK <img src="https://media.giphy.com/media/WUl
 
 ---
 <div id="myChat" align="center">
-  <img src="https://media.giphy.com/media/GJhwrOoaQB41VlAasC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/GJhwrOoaQB41VlAasC/giphy.gif"/>
   <p>MyChat currently is an open web chat for everyone around the world.</p>
+  <a href="https://MyChat.serbot.repl.co">Try MyChat</a>
 </div>
