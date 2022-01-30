@@ -35,18 +35,12 @@ I am a independent coder from the UK <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, I work on side projects such as; basic sites, Python projects and many other things.
 
-- :mailbox:How to reach me: You can reach me through my discord server (At the top with my socials) or my email linked below:
-
-<a href="https://ton83644@outlook.com">
-  <img src="https://img.shields.io/badge/Microsoft Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Gmail Badge">
-</a>
+- :mailbox:How to reach me: You can reach me through my discord server (At the top with my socials):
 
 ---
 
 <h1>MyChat<h1>
 <p>MyChat is an open web chat room that is open to everyone around the world. Just enter a name and away you go to thousands around the world.</p>
-
   
-<a href="https://mychat.serbot.repl.co/index.php">
-
-</a>
+![MyChat](https://user-images.githubusercontent.com/70635658/151708359-79fa3b2b-7ee8-4fc2-a528-7394d5db5a5b.png)
+<a href="https://mychat.serbot.repl.co/index.php">Try Now</a>
