@@ -46,5 +46,5 @@ I am a independent coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </a>
 
 <a href="https://ton83644@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=outlook&logoColor=white" alt="Gmail Badge">
+  <img src="https://img.shields.io/badge/Microsoft Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Gmail Badge">
 </a>
