@@ -30,4 +30,4 @@
 
 ---
 
-### :woman_technologist: About Me : My name is Tom but goes as Astr6id across a lot of platforms or you may come across "PythonPioneer" these are what i go by online. I am a decent coder, I know a various ammount of languages like: HTHML, CSS, JavaScript, Python, Ruby On Rails, PHP, C++, C#.
+### :woman_technologist: About Me : My name is Tom but I go by Astr6id across a lot of platforms or you may also come across "PythonPioneer" these are what I go by online. I am a decent coder, I know a various ammount of languages like: HTHML, CSS, JavaScript, Python, Ruby On Rails, PHP, C++, C#. I am currently looking into how to use databases and how to create logins / well coded web chats.
