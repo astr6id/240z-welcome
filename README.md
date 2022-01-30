@@ -31,7 +31,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a independent coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+I am a independent coder from the UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m currently unemployed as I am heading into college to study computer science.
 
