@@ -21,9 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=astr6id&style=flat-square&color=green" alt=""/>
 </div>
 
-<!--Welcome message-->
-<div id="Welcome-message" align="center">
-</div>
+---
 
 ### :woman_technologist: About Me :
 I am a independent coder from the UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
