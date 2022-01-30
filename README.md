@@ -42,7 +42,7 @@ I am a independent coder from the UK <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, I work on side projects such as; basic sites, Python projects and many other things.
 
-- :mailbox:How to reach me: You can reach me through my discord server or my email linked below:
+- :mailbox:How to reach me: You can reach me through my discord server (At the top with my socials) or my email linked below:
 
 <a href="https://ton83644@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Gmail Badge">
