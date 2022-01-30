@@ -31,4 +31,13 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a independent coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from the UK.
+I am a independent coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+
+- :telescope: I’m currently unemployed as I am heading into college to study computer science.
+
+- :seedling: Exploring deeper into networks and security.
+
+- :zap: In my free time, I work on side projects such as; basic sites, Python projects and many other things.
+
+- :mailbox:How to reach me: You can reach me through my discord server or my email linked below:
+- <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" style="float:left;"/> <a href="https://discord.gg/yrfVYCZe3T">Discord</a>
