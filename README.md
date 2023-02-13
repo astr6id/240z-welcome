@@ -5,7 +5,7 @@
 
 <!--Social medias-->
 <div id="badges" align="center">
-  <a href="https://discord.gg/yrfVYCZe3T">
+  <a href="https://discord.io/Abiotic">
   <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </a>
   <a href="https://www.youtube.com/channel/UCDxE5wdwjnXhiPN5iC3XB-A">
