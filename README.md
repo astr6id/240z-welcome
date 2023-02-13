@@ -8,7 +8,7 @@
   <a href="https://discord.io/Abiotic">
   <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </a>
-  <a href="https://www.youtube.com/channel/UCDxE5wdwjnXhiPN5iC3XB-A">
+  <a href="https://www.youtube.com/channel/UC1lFzvwBIWFU7_Loyy2jFmQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/PioneerPython">
