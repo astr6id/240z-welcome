@@ -5,7 +5,7 @@
 
 <!--Social medias-->
 <div id="badges" align="center">
-  <a href="https://discord.io/Abiotic">
+  <a href="https://discord.gg/kyW3Pe92JD">
   <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </a>
   <a href="https://www.youtube.com/channel/UC1lFzvwBIWFU7_Loyy2jFmQ">
@@ -26,7 +26,7 @@
 ### :woman_technologist: About Me :
 I am a independent coder from the UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m currently unemployed lol.
+- :telescope: Small Independent Artist.
 
 - :seedling: Exploring deeper into networks and security.
 
@@ -34,9 +34,4 @@ I am a independent coder from the UK <img src="https://media.giphy.com/media/WUl
 
 - :mailbox:How to reach me: You can reach me through my discord server (At the top with my socials):
 
----
-<div id="myChat" align="center">
-  <img src="https://media.giphy.com/media/GJhwrOoaQB41VlAasC/giphy.gif"/>
-  <p>MyChat currently is an open web chat for everyone around the world.</p>
-  <a href="https://MyChat.serbot.repl.co">Try MyChat</a>
-</div>
+
